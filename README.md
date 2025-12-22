@@ -18,7 +18,23 @@ Systems are the product.
 
 ## AI Landscape: Career + Architecture View
 
-(Insert Career + Architecture Mermaid Diagram here)
+```flowchart TD
+    A[Business Problems]
+
+    A --> B[Data Science]
+    B --> C[Machine Learning]
+    C --> D[Deep Learning]
+    D --> E[Generative AI]
+    E --> F[AI Systems & MLOps]
+
+    %% Career Mapping
+    B --- B1[Data Analyst / DS]
+    C --- C1[ML Engineer]
+    D --- D1[Applied ML Engineer]
+    E --- E1[GenAI Engineer]
+    F --- F1[Senior ML / AI Architect]
+
+```
 
 This diagram shows:
 - How business problems flow into AI systems
