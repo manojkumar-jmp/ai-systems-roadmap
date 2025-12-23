@@ -1,7 +1,7 @@
 # AI Systems Engineering Roadmap (Senior Software Engineer Track)
 
 This repository documents a **career-oriented transition into Artificial Intelligence**,
-designed specifically for **experienced software engineers**.
+designed specifically for **experienced software engineers**. 
 
 The focus is **Applied AI / Generative AI systems**, not academic research or isolated models.
 
