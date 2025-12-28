@@ -5,6 +5,8 @@ designed specifically for **experienced software engineers**.
 
 The focus is **Applied AI / Generative AI systems**, not academic research or isolated models.
 
+![Roadmap-to-become-a-Generative-AI-Expert-in-2026](https://github.com/user-attachments/assets/985f052f-7f84-4b56-845f-68d8db091234)
+
 ---
 
 ## Guiding Principle
